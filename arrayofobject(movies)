@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment3</title>
+</head>
+<body>
+   <script>
+
+let movie={
+    name:"Chennai Express",
+    release:"2013",
+    genre:"Action-comedy",
+    director:"Rohit Shetty",
+};
+console.log(movie);
+console.log(typeof(movie));
+let movies={};
+movies.name="Life of Pi";
+movies.release="2012";
+movies.genre="Fantasy-Adventure";
+movies.director="Ang Lee";
+console.log(movies);
+</script>
+
+    
+</body>
+</html>
